@@ -9,3 +9,4 @@
 
 I teach at [The Graduate Center, CUNY](https://www.gc.cuny.edu).
 
+quick test commiting on git
